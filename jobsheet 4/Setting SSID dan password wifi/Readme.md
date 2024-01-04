@@ -1,14 +1,13 @@
-  # LAPORAN PRAKTIKUM
-  # EMBEDDED SYSYTEM
- 
-![image](https://github.com/AllyaSyifaWardah/Sistem_Embedded/assets/155618590/38c1c4e4-64bc-4a33-b0dc-64c6a4283a7d)
-
-
-  # NAMA 		            : ALLYA SYIFA WARDAH
-  # KELAS / NO ABSEN		: TE – 3B / 05
-  # NIM					        : 4.31.21.1.05
- 
-
+<h1 align="center">LAPORAN PRAKTIKUM EMBEDDED SYSTEM</h1>
+<p align="center">
+  <img src="https://en.polines.ac.id/images/logo_bw.jpg" width="200" height="200">
+<br>
+<br>ALLYA SYIFA WARDAH
+<br>TE-3B
+<br>4.31.21.1.05</p>
+<b><p align="center">PROGRAM STUDI D4 TEKNIK TELEKOMUNIKASI</p>
+<p style="font-family:courier;" align="center">POLITEKNIK NEGERI SEMARANG</p>
+<p style="font-family:courier;" align="center">2023</p></b>
 
   
   # JURUSAN TEKNIK ELEKTRO
