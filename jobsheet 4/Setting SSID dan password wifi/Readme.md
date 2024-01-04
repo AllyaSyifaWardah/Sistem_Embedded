@@ -10,10 +10,6 @@
 <p style="font-family:courier;" align="center">2023</p></b>
 
   
-  # JURUSAN TEKNIK ELEKTRO
-  # PROGRAM STUDI S. Tr. TEKNIK TELEKOMUNIKASI
-  # POLITEKNIK NEGERI SEMARANG
-  # 2023
 
 # Setting SSID dan Password WI-Fi
 # 1.	Alat dan Bahan
