@@ -18,7 +18,7 @@
     3. XAMPP
     
 # 2. Source Kode
-![alt text]![image (https://github.com/AllyaSyifaWardah/Sistem_Embedded/assets/155618590/a27ae1d1-0672-4780-b49f-feffdc7bb00a)
+![alt text](https://github.com/AllyaSyifaWardah/Sistem_Embedded/assets/155618590/a27ae1d1-0672-4780-b49f-feffdc7bb00a)
 
 # 3. Flowchart
 ![image](https://github.com/AllyaSyifaWardah/Sistem_Embedded/assets/155618590/49643d14-22d2-4dd5-b5eb-e3c8bf8f859f)
