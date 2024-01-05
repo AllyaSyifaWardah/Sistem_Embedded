@@ -21,11 +21,13 @@
 ![image](https://github.com/AllyaSyifaWardah/Sistem_Embedded/assets/155618590/98367bf4-39e7-413e-bfb8-6510251a3a15)
 
 # 3.Hasil dan Pembahasan
-Jika gagal terhubung
-![alt text](https://github.com/rayabima/Embedded-System/blob/main/Media/3.%20serial%20monitor%20setelah%20memasukan%20ssid%20dan%20pass.jpeg?raw=true)
+## Jika gagal terhubung
+![image](https://github.com/AllyaSyifaWardah/Sistem_Embedded/assets/155618590/9679bc2c-35dd-4323-a595-8fecb2920555)
+
 
 ## Jika berhasil terhubung
-![alt text](https://github.com/rayabima/Embedded-System/blob/main/Media/4.%20Serial%20Monitor%20Setelah%20Berhasil%20Terhubung.jpeg?raw=true)
+![image](https://github.com/AllyaSyifaWardah/Sistem_Embedded/assets/155618590/d8aa327d-80dc-4c76-8bd1-699d4ec735da)
+
   EPS32 akan menampilkan daftar SSID Wi-Fi yang tersedia pada serial monitor. 
   Program mencoba terhubung ke jaringan WiFi yang telah disimpan dalam EEPROM (non-volatile memory). 
   Jika koneksi WiFi gagal atau tombol fisik pada pin D15 (GPIO15) ditekan, program akan memulai 
