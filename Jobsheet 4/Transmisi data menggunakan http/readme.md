@@ -33,4 +33,6 @@
   ![image](https://github.com/AllyaSyifaWardah/Sistem_Embedded/assets/155618590/9a8f7a2d-875e-4c4b-bf79-a73b628d9f57)
   ![image](https://github.com/AllyaSyifaWardah/Sistem_Embedded/assets/155618590/04f5ea95-c809-40a8-89be-104477e6a39c)
 
-  # Analisa dan Kesimpulan
+HTTP adalah protokol yang menyediakan perintah dalam komunikasi antar jaringan, di mana hal ini yaitu komputer client dengan web server. Nantinya, komputer client akan melakukan request dengan mengakses domain URL maupun alamat IP. Kemudian request tersebut akan dikelola atau dijalankan oleh web server sesuai kode yang dimasukkan.
+
+Protokol HTTP didesain untuk mengelola dokumen HTML dan mengirimkannya kepada client, itulah sebabnya protokol berikut paling banyak digunakan dibanding dengan protokol lain. Praktikum semacam ini penting karena HTTP merupakan protokol yang sangat penting dalam pengembangan web dan layanan-layanan yang terhubung melalui internet. Memahami dasar-dasar dan implementasi HTTP membantu dalam memahami komunikasi data pada jaringan dan bagaimana aplikasi atau perangkat berkomunikasi satu sama lain melalui web. Praktikum semacam ini penting karena HTTP merupakan protokol yang sangat penting dalam pengembangan web dan layanan-layanan yang terhubung melalui internet. Memahami dasar-dasar dan implementasi HTTP membantu dalam memahami komunikasi data pada jaringan dan bagaimana aplikasi atau perangkat berkomunikasi satu sama lain melalui web.
