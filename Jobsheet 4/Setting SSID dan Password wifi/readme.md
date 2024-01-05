@@ -26,7 +26,7 @@
 
 
 ## Jika berhasil terhubung
-![image](https://github.com/AllyaSyifaWardah/Sistem_Embedded/assets/155618590/d8aa327d-80dc-4c76-8bd1-699d4ec735da)
+![image](https://github.com/AllyaSyifaWardah/Sistem_Embedded/assets/155618590/0b7d0b45-b2dd-41a1-bf7a-dbf9e6f6ad89)
 
   EPS32 akan menampilkan daftar SSID Wi-Fi yang tersedia pada serial monitor. 
   Program mencoba terhubung ke jaringan WiFi yang telah disimpan dalam EEPROM (non-volatile memory). 
