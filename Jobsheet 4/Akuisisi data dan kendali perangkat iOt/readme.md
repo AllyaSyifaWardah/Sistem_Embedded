@@ -44,3 +44,7 @@
 
 ## Praktikum 4d 2.3
 ![job4d 2 3](https://github.com/AllyaSyifaWardah/Sistem_Embedded/assets/155618590/6e986644-27fe-419d-a114-38424a3390c6)
+
+Dalam praktikum, untuk akuisisi data, perangkat IoT dapat mengirimkan data sensor ke broker MQTT melalui topik yang relevan. Sementara itu, untuk pengendalian, perangkat lain atau aplikasi dapat mengirimkan perintah ke perangkat IoT melalui broker menggunakan topik yang sesuai. Protokol MQTT mampu berjalan dengan baik dan lancar ketika diimplementasikan pada
+sistem monitoring perangkat IoT. Prinsip publish-subscribe yang diterapkan mampu berjalan 
+dengan baik pada proses transfer data dan bisa memperoleh topik yang berisi informasi yang diminta oleh pengguna berdasarkan pengamatan dari perangkat yang ditentukan.
