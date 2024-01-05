@@ -21,7 +21,8 @@
 ![image](https://github.com/AllyaSyifaWardah/Sistem_Embedded/assets/155618590/a27ae1d1-0672-4780-b49f-feffdc7bb00a)
 
 # 3. Flowchart
-![image](https://github.com/AllyaSyifaWardah/Sistem_Embedded/assets/155618590/5e142e6c-7696-4b4a-ab58-8c9b045d75ab)
+![image](https://github.com/AllyaSyifaWardah/Sistem_Embedded/assets/155618590/49643d14-22d2-4dd5-b5eb-e3c8bf8f859f)
+
 
 # 4. Hasil dan Pembahasan
 ## Praktikum 4C.1
